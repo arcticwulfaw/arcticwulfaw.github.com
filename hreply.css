@@ -83,7 +83,7 @@ width:18px;
 box-shadow:0 0 5px #000;
 }
 
-#post-button:hover #reply-button-circle, #reply-button:hover #reply-button-circle, 
+#post-button:hover #reply-button-circle, #reply-button:hover #reply-button-circle
 {
 -webkit-box-shadow:0 0 5px #fff; 
 -moz-box-shadow:0 0 5px #fff; 
