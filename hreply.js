@@ -22,7 +22,8 @@ function if_duration_go() {
 }
 
 function make_textbox_big() {
-    document.getElementById("post-input").style.height="5em";
+    document.getElementById("post-input").style.background="#333";
+    document.getElementById("post-input").style.height="15em";
     document.getElementById("reply-button").href="#post";
     document.getElementById("reply-button").id="post-button";
     return false;
